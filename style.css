@@ -42,5 +42,38 @@
     margin: 15px;
 }
 #photos img{
-    /*...otherstyles...*/border: 1px solid black
+    /*...otherstyles...*/border:1px solid #ddd; /* use a more neutral border colour */  
 }
+#contact{
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+#contact form{
+    max-width: 400px;
+    margin: auto;
+
+}
+contact label{
+    display: block;
+    margin-bottom: 5px;
+
+}
+#contact input,#contact textarea{
+    width:100;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px salmon;
+    border-radius: 3px;
+}
+#contact button{
+    background-color: green;
+    color:white;
+    padding: 10px 20px;
+    border-radius:3px;
+    cursor: pointer;
+}
+
+
