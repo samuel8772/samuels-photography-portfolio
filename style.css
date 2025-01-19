@@ -30,3 +30,14 @@
     border: radius 5px;
     
 }
+#photos img{
+    transition: transform 0.2;
+    /*Add transition for smooth hover effect */
+}
+#photos img:hover{
+    transform:scale(1.05);/* enlarge image slightly on hover*/
+}
+
+#photos img{
+    margin: 15px;
+}
