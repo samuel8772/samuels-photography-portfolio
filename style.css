@@ -41,3 +41,6 @@
 #photos img{
     margin: 15px;
 }
+#photos img{
+    /*...otherstyles...*/border: 1px solid black
+}
