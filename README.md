@@ -10,3 +10,10 @@ some photos of the best cameras
 
 viewing the portfolio:
 you can view the portfolio online at: https://samuel8772.github.io/samuels-photography-portfolio/
+
+ contact:
+ email:kamauskk005@gmail.com
+
+ lincence:
+ kenyan lincence
+  thankyou...
